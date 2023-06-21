@@ -1,0 +1,9 @@
+{
+    "cart": [
+      {   
+        "heading": "1. Koszyk",     
+        "emptyCart": "Twój koszyk jest pusty"        
+      }
+    ]
+}
+  
