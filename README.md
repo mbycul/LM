@@ -9,5 +9,5 @@ Test scenarios:
 6. Add product to the cart from the listing and proceed to checkout by clicking the Go to cart button in the pre-cart
 7. Add product to the cart from the listing, proceed to checkout by clicking the Go to cart button in the pre-car and check if the product name in the cart matches the product name in the pre-cart
 8. Add product to the cart from the listing, proceed to checkout by clicking the Go to cart button in the pre-car and check if the product price in the cart matches the product price in the pre-cart
-9. Add product to the cart from the listing, proceed to checkout by clicking the Go to cart button in the pre-car and remove all items from the cart by clicking Delete the contents of the basket button
-10. Add product to the cart from the listing, proceed to checkout by clicking the Go to cart button in the pre-car, remove all items from the cart by clicking Delete the contents of the basket button and abort removing all items from the cart by clicking Cancel button in the remove all products modal
+9. Add product to the cart from the listing, proceed to checkout by clicking the Go to cart button in the pre-car and click Delete the contents of the basket button
+10. Add product to the cart from the listing, proceed to checkout by clicking the Go to cart button in the pre-car, click Delete the contents of the basket button and abort removing all items from the cart by clicking Cancel button in the remove all products modal
