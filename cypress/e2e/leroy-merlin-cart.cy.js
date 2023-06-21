@@ -6,9 +6,9 @@ const leroyMerlinCartInstance = new leroyMerlinCart();
 beforeEach('setup', () => {  
   cy.viewport(1280, 800) 
   cy.visit('/');
-  cy.get('#onetrust-consent-sdk').invoke('css', 'display', 'none');
+  // cy.get('#onetrust-consent-sdk').invoke('css', 'display', 'none');
   cy.url().should('contain', 'leroymerlin').wait(2000);
-  // cy.CloseCookieModal();  
+  cy.CloseCookieModal();  
   cy.fixture('labels').as('labels');  
 })
 
